@@ -1,7 +1,7 @@
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
 <h3 align="center">I'm an Aspiring Developer from <sub><sub><img src="assets/india_flag.png" width="30px"></sub></sub></h3>
 
-## 🙋‍♂️ Curious about Me ?
+## 🙋‍♂️ Curious about Me ? 
 <br/>
 
 - 🔭 I’m an undergrad, learning Computer Science at **_[`PICT, Pune, India.`](https://pict.edu/about_us/)_** 
