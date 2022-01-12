@@ -6,14 +6,13 @@
 
 - 🔭 I’m an undergrad, learning Computer Science at **_[`PICT, Pune, India.`](https://pict.edu/about_us/)_** 
 
-- 🔭 I’m currently learning **_Foundation of User Experience_**
+- 🔭 I’m currently learning **_`Foundation of User Experience`_**
 
-- 👯 I’m looking to Contribute on open source **_IoT Projects_**
+- 👯 I’m looking to Contribute on open source **_`IoT Projects`_**
 
-- 👨‍💻 All of my projects are available at **_[Repositories](https://github.com/AnujMutha?tab=repositories)_**
+- 👨‍💻 All of my projects are available at **_[`Repositories`](https://github.com/AnujMutha?tab=repositories)_**
 
-- ⚡ Fun fact **I'm an Aspiring Programmer and occasionally like photography 🎥📸**
-
+- ⚡ Fun fact **I'm an `Aspiring Programmer` and occasionally like `photography` 🎥📸**
 <br/>
 
 ## 🚀 Languages and Tools
