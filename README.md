@@ -26,13 +26,15 @@
   <a href="https://nodejs.org"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Node Js.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/HTML.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/CSS.png"/></a>
-  <br/><br/>
+  <br/>
+<br/>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/C.png"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/C++.png"/></a>
   <a href="https://docs.microsoft.com/es-es/dotnet/csharp/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/CSharp.png"/></a>
   <a href="https://lua.org/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Lua.png"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/SQL.png"/></a>
-  <br/><br/>
+  <br/>
+<br/>
   <a href="https://mongodb.com/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/MongoDB.png"/></a>
   <a href="https://reactjs.org/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/React.png"/></a>
   <a href="https://jquery.com/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/JQuery.png"/></a>
