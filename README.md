@@ -11,15 +11,13 @@
 ## 🙋‍♂️ About Me
 <br/>
 
-- 🔭 I’m currently working on **[MargAuto](https://github.com/AkshayCraZzY/MargAuto) and [WhatsApp-Bulk-Message-Sender](https://github.com/AkshayCraZzY/WhatsApp-Bulk-Message-Sender)**
+- 🔭 I’m currently learning **_Foundation of User Experience_**
 
-- 🌱 I’m currently learning realtime automation using **AutoHotKey, Selenium and Python**
+- 👯 I’m looking to Contribute on open source **_IoT Projects_**
 
-- 👯 I’m looking to collaborate on **OpenSource AHK/Selenium Automation Projects**
+- 👨‍💻 All of my projects are available at **_[Repositories](https://github.com/AnujMutha?tab=repositories)_**
 
-- 👨‍💻 All of my projects are available at **[Repositories](https://github.com/AkshayCraZzY?tab=repositories)**
-
-- ⚡ Fun fact **I'm an aspiring entrepreneur and occasionaly play video games.**
+- ⚡ Fun fact **I'm an Aspiring Programmer and occasionally like photography**
 
 <br/>
 
