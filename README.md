@@ -1,14 +1,8 @@
-<!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<!--<p align="center"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="30%" height="auto" src="https://i.imgur.com/GXzGNib.png" height="175px"/></a></p>-->
-<!--<p align="center"> <a href="#"><img width="40%" height="auto" src="https://i.imgur.com/rCti8VE.png" height="175px"/></a></p>-->
-<p align="center"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="40%" height="auto" src="https://i.imgur.com/CIQjtwL.gif" height="145px"/></a></p> 
-
-
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
 <h3 align="center">I'm an Aspiring Developer from <sub><sub><img src="assets/india_flag.png" width="30px"></sub></sub></h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Curious about Me? There you go !
 <br/>
 
 - 🔭 I’m currently learning **_Foundation of User Experience_**
@@ -17,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **_[Repositories](https://github.com/AnujMutha?tab=repositories)_**
 
-- ⚡ Fun fact **I'm an Aspiring Programmer and occasionally like photography**
+- ⚡ Fun fact **I'm an Aspiring Programmer and occasionally like photography 🎥📸**
 
 <br/>
 
