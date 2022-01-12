@@ -1,9 +1,10 @@
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
 <h3 align="center">I'm an Aspiring Developer from <sub><sub><img src="assets/india_flag.png" width="30px"></sub></sub></h3>
 
-##
-## 🙋‍♂️ Curious about Me? There you go !
+## 🙋‍♂️ Curious about Me, There you go !
 <br/>
+
+- 🔭 I’m an undergrad, learning Computer Science at **_[`PICT, Pune, India.`](https://pict.edu/about_us/)_** 
 
 - 🔭 I’m currently learning **_Foundation of User Experience_**
 
@@ -17,8 +18,6 @@
 
 ## 🚀 Languages and Tools
 <br/>
-
-
 <h2 align="center">Skills</h2>
 <ul align="center">
   <br/>
@@ -47,11 +46,7 @@
 
 <p align="center">
     <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycrazzy&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
-
-
 </p>
-
-
 
 <h2 align="center">💬 Connect with me</h2>
 <ul align="center">
