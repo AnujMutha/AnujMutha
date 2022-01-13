@@ -1,3 +1,5 @@
+<img src="">
+
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
 <h3 align="center">I'm an Aspiring Developer from <sub><sub><img src="assets/india_flag.png" width="30px"></sub></sub></h3>
 
@@ -56,7 +58,7 @@
 <p align="center">
         <a href="https://github.com/AnujMutha"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMutha&layout=compact&langs_count=10&bg_color=30,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=20&card_width=445" /></a>
 </p>
-
+ 
 <h2 align="center">💬 Connect with me</h2>
 <ul align="center">
   <br/>
