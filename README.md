@@ -20,10 +20,10 @@
 <h2 align="center">Tools</h2>
 <ul align="center">
   <br/>
-      <img src="assets/intellij.png" style="margin: .5em" width="55" height="55" alt="Intellij"/>
-      <img src="assets/pycharm.png" style="margin: .5em" width="55" height="55" alt="PyCharm"/>
-      <img src="assets/phpstorm.png" style="margin: 10px" width="55" height="55" alt="PHPStorm"/>
-      <img src="assets/clion.svg" style="margin: 10px" width="55" height="55" alt="CLion"/>
+      <img src="assets/intellij.png"  width="55" height="55" alt="Intellij"/>
+      <img src="assets/pycharm.png"  width="55" height="55" alt="PyCharm"/>
+      <img src="assets/phpstorm.png"  width="55" height="55" alt="PHPStorm"/>
+      <img src="assets/clion.svg" width="55" height="55" alt="CLion"/>
   <br/>
 <br/>
       <img src="assets/android_studio.png" style="margin: 10px" width="55" height="55" alt="Intellij"/>
