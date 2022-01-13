@@ -25,10 +25,10 @@
   <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a>
   <a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a>   <br/>
 <br/>
-  <a href="https://www.jetbrains.com/intellij/" style="margin: 20px"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>
-  <a href="https://www.jetbrains.com/clion/" style="margin: 20px"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" style="margin: 20px"><img alt="Sublime" height="45px" src="tools/sublime_text.png"/></a>
-  <a href="https://www.jetbrains.com/phpstorm/" style="margin: 20px"><img alt="Atom" height="45px" src="tools/atom.png"/></a>   <br/>
+  <a href="https://www.jetbrains.com/intellij/"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>
+  <a href="https://www.jetbrains.com/clion/"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img alt="Sublime" height="45px" src="tools/sublime_text.png"/></a>
+  <a href="https://www.jetbrains.com/phpstorm/"><img alt="Atom" height="45px" src="tools/atom.png"/></a>   <br/>
   <a href="https://en.wikipedia.org/wiki/SQL"><img alt="Jupyter" height="45px" src="tools/jupyter.png"/></a>
   <br/>
 <br/>
@@ -50,7 +50,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaycrazzy&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Top Languages" src="https://github-readme-stats.vercel.app/api?username=AnujMutha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&border_radius=20&border_color=fff" /></a>
 </p>
 
 <h2 align="center">💬 Connect with me</h2>
