@@ -17,7 +17,7 @@
 
 ## 🚀 Languages and Tools
 <br/>
-<h2 align="center">Tools</h2>
+<h2 align="start">Tools</h2>
 <ul align="center">
   <br/>
   <a href="https://www.jetbrains.com/intellij/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>
@@ -48,11 +48,11 @@
 </ul>
 
 <br/>
-<h1 align="center">Statistics 📊</h1>
+<h2 align="center">Statistics 📊</h2>
 <p align="center">
     <a href="https://github.com/AnujMutha"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnujMutha&bg_color=30,642B73,C6426E&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&border_radius=20&border_color=fff&include_all_commits=true&line_height=25&custom_title=Anuj%20Mutha%27s%20Github%20Stats" /></a> 
 </p>
-<h1 align="center">Languages Used 📊</h1>
+<h2 align="center">Languages Used 📊</h2>
 <p align="center">
         <a href="https://github.com/AnujMutha"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMutha&layout=compact&langs_count=10&bg_color=30,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=20&card_width=445" /></a>
 </p>
