@@ -20,11 +20,10 @@
 <h2 align="center">Tools</h2>
 <ul align="center">
   <br/>
-      <img src="assets/intellij.png" style="margin: 2.5%" width="55" height="55" alt="Intellij"/>
-      <img src="assets/pycharm.png" style="margin: 2.5%" width="55" height="55" alt="PyCharm"/>
-      <img src="assets/phpstorm.png" style="margin: 2.5%" width="55" height="55" alt="PHPStorm"/>
-      <img src="assets/clion.svg"style="margin: 2.5%" width="55" height="55" alt="CLion"/>
-  <br/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="45px" src="assets/intellij.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="45px" src="assets/clion.svg"/></a>
+  <a href="https://docs.microsoft.com/es-es/dotnet/csharp/"><img height="45px" src="assets/pycharm.png"/></a>
+  <a href="https://lua.org/"><img height="45px" src="assets/phpstorm.png"/></a>   <br/>
 <br/>
       <img src="assets/android_studio.png" style="margin: 10px" width="55" height="55" alt="Intellij"/>
       <img src="assets/vscode.png" style="margin: 10px" width="55" height="55" alt="PyCharm"/>
