@@ -4,7 +4,7 @@
 ## 🙋‍♂️ Curious about Me ? 
 <br/>
 
-- 🔭 I’m an undergrad, learning Computer Science at **_[`PICT, Pune, India.`](https://pict.edu/about_us/)_** 
+- 👨🏻‍🎓 I’m an undergrad, learning Computer Science at **_[`PICT, Pune, India.`](https://pict.edu/about_us/)_** 
 
 - 🔭 I’m currently learning **_`Foundation of User Experience`_**
 
