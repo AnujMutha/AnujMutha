@@ -50,8 +50,11 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Top Languages" src="https://github-readme-stats.vercel.app/api?username=AnujMutha&bg_color=30,642B73,C6426E&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&border_radius=20&border_color=fff&include_all_commits=true&line_height=25&custom_title=Anuj%20Mutha%27s%20Github%20Stats" /></a>
-    <a href="https://github.com/AkshayCraZzY"><img alt="Akshay Parakh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMutha&layout=compact&langs_count=10&bg_color=30,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=20&card_width=445" /></a>
+    <a href="https://github.com/AnujMutha"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnujMutha&bg_color=30,642B73,C6426E&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&border_radius=20&border_color=fff&include_all_commits=true&line_height=25&custom_title=Anuj%20Mutha%27s%20Github%20Stats" /></a> 
+</p>
+
+<p align="center">
+        <a href="https://github.com/AnujMutha"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMutha&layout=compact&langs_count=10&bg_color=30,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=20&card_width=445" /></a>
 </p>
 
 <h2 align="center">💬 Connect with me</h2>
