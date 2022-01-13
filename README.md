@@ -22,6 +22,8 @@
   <br/>
       <img src="https://img.icons8.com/color/60/000000/intellij-idea.png" alt="Intellij"/>
       <img src="https://img.icons8.com/color/60/000000/pycharm.png" alt="PyCharm"/>
+      <img src="assets/phpstorm.png" width="55" height="55" alt="PyCharm"/>
+
   <br/>
 <br/>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/C.png"/></a>
