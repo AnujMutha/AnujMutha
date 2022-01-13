@@ -1,4 +1,4 @@
-<img src="assets/coder.gif">
+<img src="assets/coder.gif" align="center">
 
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
 <h3 align="center">I'm an Aspiring Developer from <sub><sub><img src="assets/india_flag.png" width="30px"></sub></sub></h3>
@@ -19,7 +19,6 @@
 
 ## 🚀 Languages and Tools
 <br/>
-<h2 align="start">Tools</h2>
 <ul align="center">
   <br/>
   <a href="https://www.jetbrains.com/intellij/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>
