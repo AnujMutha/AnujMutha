@@ -1,4 +1,4 @@
-<img src="">
+<img src="assets/coder.gif">
 
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
 <h3 align="center">I'm an Aspiring Developer from <sub><sub><img src="assets/india_flag.png" width="30px"></sub></sub></h3>
