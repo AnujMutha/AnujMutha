@@ -20,15 +20,15 @@
 <h2 align="center">Tools</h2>
 <ul align="center">
   <br/>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="45px" src="assets/intellij.png"/></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="45px" src="assets/clion.svg"/></a>
-  <a href="https://docs.microsoft.com/es-es/dotnet/csharp/"><img height="45px" src="assets/pycharm.png"/></a>
-  <a href="https://lua.org/"><img height="45px" src="assets/phpstorm.png"/></a>   <br/>
+  <a href="https://www.jetbrains.com/intellij/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>
+  <a href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/clion.svg"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a>
+  <a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a>   <br/>
 <br/>
-      <img src="assets/android_studio.png" style="margin: 10px" width="55" height="55" alt="Intellij"/>
-      <img src="assets/vscode.png" style="margin: 10px" width="55" height="55" alt="PyCharm"/>
-      <img src="assets/sublime_text.png" style="margin: 10px" width="55" height="55" alt="PHPStorm"/>
-      <img src="assets/atom.png" style="margin: 10px" width="55" height="55" alt="CLion"/>
+  <a href="https://www.jetbrains.com/intellij/"><img alt="IntelliJ" height="45px" src="tools/android_studio.png"/></a>
+  <a href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/vscode.png"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/sublime_text.png"/></a>
+  <a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/atom.png"/></a>   <br/>
   <br/>
 <br/>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/C.png"/></a>
