@@ -25,10 +25,10 @@
   <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a>
   <a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a>   <br/>
 <br/>
-  <a href="https://www.jetbrains.com/intellij/"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>
-  <a href="https://www.jetbrains.com/clion/"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>
-  <a href="https://www.jetbrains.com/pycharm/"><img alt="Sublime" height="45px" src="tools/sublime_text.png"/></a>
-  <a href="https://www.jetbrains.com/phpstorm/"><img alt="Atom" height="45px" src="tools/atom.png"/></a>   <br/>
+  <a href="https://www.jetbrains.com/intellij/" style="margin: 20px"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>
+  <a href="https://www.jetbrains.com/clion/" style="margin: 20px"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" style="margin: 20px"><img alt="Sublime" height="45px" src="tools/sublime_text.png"/></a>
+  <a href="https://www.jetbrains.com/phpstorm/" style="margin: 20px"><img alt="Atom" height="45px" src="tools/atom.png"/></a>   <br/>
   <a href="https://en.wikipedia.org/wiki/SQL"><img alt="Jupyter" height="45px" src="tools/jupyter.png"/></a>
   <br/>
 <br/>
