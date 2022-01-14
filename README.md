@@ -17,16 +17,18 @@ _<img src="assets/coder.gif" align="center">
 - ⚡ Fun fact **I'm an `Aspiring Programmer` and occasionally like `photography` 🎥📸**
 <br/>
 
-## 🚀 Languages and Tools 
-###`IDE's`
-<div align="center" style="background:#000;">
-  <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>
-  <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</div>
+## 🚀 Languages and Tools
+<p align="start" >
+
+#### **IDE**
+
+  <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&nbsp;
+</p>
  
 
 <br/>
