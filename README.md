@@ -22,17 +22,18 @@ _<img src="assets/coder.gif" align="center">
 
 <p align="center" >
 
-#### **IDE**
+#### **_IDE_**
+<code>
   <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;</code>
 </p>
 
 <p align="center" >
 
-#### **Languages**
+#### **_Languages_**
 <img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.svg"/>&nbsp;
@@ -44,14 +45,14 @@ _<img src="assets/coder.gif" align="center">
 
 <p align="center" >
 
-#### **Backend**
+#### **_Backend_**
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>
 </p>
 <p align="center" >
 
-#### **Other Tools**
+#### **_Other Tools_**
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
@@ -60,7 +61,7 @@ _<img src="assets/coder.gif" align="center">
 
 <p align="center" >
 
-#### **Editing Tools**
+#### **_Editing Tools_**
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;
 </p>
