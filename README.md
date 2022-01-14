@@ -18,16 +18,28 @@ _<img src="assets/coder.gif" align="center">
 <br/>
 
 ## 🚀 Languages and Tools
+<br/>
+
 <p align="start" >
 
 #### **IDE**
-
   <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>&nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&nbsp;
+</p>
+
+<p align="start" >
+
+#### **Languages**
+<img src="https://img.icons8.com/color/48/000000/java.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
+<img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 </p>
  
 
