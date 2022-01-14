@@ -20,7 +20,7 @@
 ## 🚀 Languages and Tools
 <br/>
 <ul align="center">
-  <a style="margin: .5em" markdown="1" href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>
+  <a style="margin: .5em" href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>
   <a style="margin: .5em" href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/clion.svg"/></a>
   <a style="margin: .5em" href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a>
   <a style="margin: .5em" href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a>
