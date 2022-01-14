@@ -33,24 +33,21 @@ _<img src="assets/coder.gif" align="center">
 <p align="center" >
 
 #### **Languages**
-<img src="https://img.icons8.com/color/48/000000/java.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>&nbsp;
-<img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&nbsp;
-<img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.svg"/>&nbsp;
+<img src="https://img.icons8.com/officexs/48/000000/php-logo.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/c-programming.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.svg"/>&nbsp;
 </p>
 
 <p align="center" >
 
 #### **Other Tools**
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/arduino.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/intellij.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/intellij-idea.svg"/>
+<img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
 </p>
  
 
