@@ -21,7 +21,7 @@
 <br/>
 <p align="center" >
 
-#### **_`IDE`_**
+#### `IDE`
   <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;
@@ -30,7 +30,7 @@
 </p>
 <p align="center" >
 
-#### **_`Languages`_**
+#### `Languages`
 <img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.svg"/>&nbsp;
@@ -42,14 +42,14 @@
 
 <p align="center" >
 
-#### _`Backend`_
+#### `Backend`
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>
 </p>
 <p align="center" >
 
-#### _`Other Tools`_
+#### `Other Tools`
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
@@ -58,7 +58,7 @@
 
 <p align="center" >
 
-#### _`Editing Tools`_
+#### `Editing Tools`
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;
 </p>
@@ -87,4 +87,4 @@
 <a href="mailto:akshayparakh98@gmail.com?subject=From Github"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Website.png"/></a>
 </ul>
 <br/>
-<h5 align="center">(click on the images to visit the webpage, images may not display on mobile phones)</h5>_
+<h5 align="center">(click on the images to visit the webpage, images may not display on mobile phones)</h5>
