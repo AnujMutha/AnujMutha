@@ -1,4 +1,4 @@
-_<img src="assets/coder.gif" align="center">
+<img src="assets/coder.gif" align="center">
 
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
 <h3 align="center">I'm an Aspiring Developer from <sub><sub><img src="assets/india_flag.png" width="30px"></sub></sub></h3>
@@ -19,21 +19,18 @@ _<img src="assets/coder.gif" align="center">
 
 ## 🚀 Languages and Tools
 <br/>
-<code>
 <p align="center" >
 
-#### **_IDE_**
-
+#### **_`IDE`_**
   <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;
 </p>
-</code>
 <p align="center" >
 
-#### **_Languages_**
+#### **_`Languages`_**
 <img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.svg"/>&nbsp;
@@ -45,14 +42,14 @@ _<img src="assets/coder.gif" align="center">
 
 <p align="center" >
 
-#### **_Backend_**
+#### **_`Backend`_**
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>
 </p>
 <p align="center" >
 
-#### **_Other Tools_**
+#### **_`Other Tools`_**
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
@@ -61,7 +58,7 @@ _<img src="assets/coder.gif" align="center">
 
 <p align="center" >
 
-#### **_Editing Tools_**
+#### **_`Editing Tools`_**
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;
 </p>
