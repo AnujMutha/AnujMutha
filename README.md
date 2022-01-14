@@ -20,15 +20,16 @@
 ## 🚀 Languages and Tools
 <br/>
 <ul align="center">
-  <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/clion.svg"/></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/intellij/"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/clion/"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/pycharm/"><img alt="Sublime" height="45px" src="tools/sublime_text.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/phpstorm/"><img alt="Atom" height="45px" src="tools/atom.png"/></a>&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/SQL"><img alt="Jupyter" height="45px" src="tools/jupyter.png"/></a>&nbsp;&nbsp;
+  <a style="margin: .5em" href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>
+  <a style="margin: .5em" href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/clion.svg"/></a>
+  <a style="margin: .5em" href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a>
+  <a style="margin: .5em" href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a>
+  <a style="margin: .5em" href="https://www.jetbrains.com/intellij/"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>
+  <a style="margin: .5em" href="https://www.jetbrains.com/clion/"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>
+  <a style="margin: .5em" href="https://www.jetbrains.com/pycharm/"><img alt="Sublime" height="45px" src="tools/sublime_text.png"/></a>
+  <a style="margin: .5em"href="https://www.jetbrains.com/phpstorm/"><img alt="Atom" height="45px" src="tools/atom.png"/></a>
+  <a style="margin: .5em" href="https://en.wikipedia.org/wiki/SQL"><img alt="Jupyter" height="45px" src="tools/jupyter.png"/></a>
+
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/C.png"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/C++.png"/></a>
   <a href="https://docs.microsoft.com/es-es/dotnet/csharp/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/CSharp.png"/></a>
