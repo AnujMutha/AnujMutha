@@ -56,6 +56,7 @@
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.svg"/>&nbsp;
 </div>
 
 <h2 align="start">Statistics 📊</h2>
