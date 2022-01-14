@@ -19,18 +19,18 @@ _<img src="assets/coder.gif" align="center">
 
 ## 🚀 Languages and Tools
 <br/>
-
+<code>
 <p align="center" >
 
 #### **_IDE_**
-<code>
+
   <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;</code>
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;
 </p>
-
+</code>
 <p align="center" >
 
 #### **_Languages_**
