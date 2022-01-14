@@ -20,36 +20,27 @@
 ## 🚀 Languages and Tools
 <br/>
 <ul align="center">
-  <p>
-  <code style="margin: .5em"><a href="https://www.jetbrains.com/intellij/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a></code>
-  <code style="margin: .5em"><a href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/clion.svg"/></a></code>
-  <code style="margin: .5em"><a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a></code>
-  <code style="margin: .5em"><a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a></code>   
-<p/>
-<br/>
-  <a href="https://www.jetbrains.com/intellij/"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>
-  <a href="https://www.jetbrains.com/clion/"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>
-  <a href="https://www.jetbrains.com/pycharm/"><img alt="Sublime" height="45px" src="tools/sublime_text.png"/></a>
-  <a href="https://www.jetbrains.com/phpstorm/"><img alt="Atom" height="45px" src="tools/atom.png"/></a>   <br/>
-  <a href="https://en.wikipedia.org/wiki/SQL"><img alt="Jupyter" height="45px" src="tools/jupyter.png"/></a>
-  <br/>
-<br/>
+  <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/clion.svg"/></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/intellij/"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/clion/"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/"><img alt="Sublime" height="45px" src="tools/sublime_text.png"/></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/phpstorm/"><img alt="Atom" height="45px" src="tools/atom.png"/></a>&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SQL"><img alt="Jupyter" height="45px" src="tools/jupyter.png"/></a>&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/C.png"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/C++.png"/></a>
   <a href="https://docs.microsoft.com/es-es/dotnet/csharp/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/CSharp.png"/></a>
   <a href="https://lua.org/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Lua.png"/></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/SQL.png"/></a>
-  <br/>
-<br/>
   <a href="https://mongodb.com/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/MongoDB.png"/></a>
   <a href="https://reactjs.org/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/React.png"/></a>
   <a href="https://jquery.com/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/JQuery.png"/></a>
   <a href="https://getbootstrap.com"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Bootstrap.png"/></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Bash.png"/></a>
   <a href="https://raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Raspberry Pi.png"/></a>
-  
 </ul>
-
 <br/>
 <h2 align="start">Statistics 📊</h2>
 <p align="center">
