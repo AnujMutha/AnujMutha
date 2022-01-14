@@ -20,11 +20,12 @@
 ## 🚀 Languages and Tools
 <br/>
 <ul align="center">
-  <br/>
-  <a href="https://www.jetbrains.com/intellij/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a>
-  <a href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/clion.svg"/></a>
-  <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a>
-  <a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a>   <br/>
+  <p>
+  <code style="margin: .5em"><a href="https://www.jetbrains.com/intellij/"><img alt="IntelliJ" height="45px" src="tools/intellij.png"/></a></code>
+  <code style="margin: .5em"><a href="https://www.jetbrains.com/clion/"><img alt="CLion" height="45px" src="tools/clion.svg"/></a></code>
+  <code style="margin: .5em"><a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" height="45px" src="tools/pycharm.png"/></a></code>
+  <code style="margin: .5em"><a href="https://www.jetbrains.com/phpstorm/"><img alt="PHPStorm" height="45px" src="tools/phpstorm.png"/></a></code>   
+<p/>
 <br/>
   <a href="https://www.jetbrains.com/intellij/"><img alt="Android Studio" height="45px" src="tools/android_studio.png"/></a>
   <a href="https://www.jetbrains.com/clion/"><img alt="VSCode" height="45px" src="tools/vscode.png"/></a>
@@ -46,6 +47,7 @@
   <a href="https://getbootstrap.com"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Bootstrap.png"/></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Bash.png"/></a>
   <a href="https://raspberrypi.org/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/skills/Raspberry Pi.png"/></a>
+  
 </ul>
 
 <br/>
