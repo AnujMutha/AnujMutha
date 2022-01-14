@@ -44,12 +44,26 @@ _<img src="assets/coder.gif" align="center">
 
 <p align="center" >
 
+#### **Backend**
+<img src="https://img.icons8.com/color/50/000000/mysql-logo.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>
+</p>
+<p align="center" >
+
 #### **Other Tools**
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
 </p>
- 
+
+
+<p align="center" >
+
+#### **Editing Tools**
+<img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;
+</p>
 
 <br/>
 
