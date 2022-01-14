@@ -42,14 +42,14 @@
 
 <p align="center" >
 
-#### **_`Backend`_**
+#### _`Backend`_
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>
 </p>
 <p align="center" >
 
-#### **_`Other Tools`_**
+#### _`Other Tools`_
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
@@ -58,7 +58,7 @@
 
 <p align="center" >
 
-#### **_`Editing Tools`_**
+#### _`Editing Tools`_
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;
 </p>
