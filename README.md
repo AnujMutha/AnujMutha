@@ -23,11 +23,11 @@ _<img src="assets/coder.gif" align="center">
 <p align="center" >
 
 #### **IDE**
-  <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>&nbsp;
-  <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;
 </p>
 
 <p align="center" >
