@@ -17,13 +17,20 @@ _<img src="assets/coder.gif" align="center">
 - ⚡ Fun fact **I'm an `Aspiring Programmer` and occasionally like `photography` 🎥📸**
 <br/>
 
-## 🚀 Languages and Tools
+## 🚀 Languages and Tools 
+###`IDE's`
+<div align="center" style="background:#000;">
+  <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>
+  <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</div>
+ 
+
 <br/>
-<ul align="center">
-  <code><img src="https://img.icons8.com/color/48/000000/jetbrains.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
-</ul>
-<br/>
+
 <h2 align="start">Statistics 📊</h2>
 <p align="center">
     <a href="https://github.com/AnujMutha"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnujMutha&bg_color=30,642B73,C6426E&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&border_radius=20&border_color=fff&include_all_commits=true&line_height=25&custom_title=Anuj%20Mutha%27s%20Github%20Stats" /></a> 
