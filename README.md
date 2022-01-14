@@ -46,9 +46,11 @@ _<img src="assets/coder.gif" align="center">
 <p align="center" >
 
 #### **Other Tools**
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>&nbsp;
+<img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/intellij.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.svg"/>
 </p>
  
 
