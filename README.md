@@ -16,18 +16,18 @@
 <br/>
 
 ## 🚀 Languages and Tools
-<p align="center" >
 
 #### `IDE`
+<div align="center" >
   <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;
-</p>
-<p align="center" >
+</div>
 
 #### `Languages`
+<div align="center" >
 <img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.svg"/>&nbsp;
@@ -35,30 +35,29 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/c-programming.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.svg"/>&nbsp;
-</p>
-
-<p align="center" >
+</div>
 
 #### `Backend`
+<div align="center" >
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>
-</p>
-<p align="center" >
+</div>
 
 #### `Other Tools`
+<div align="center" >
+
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
-</p>
-
-
-<p align="center" >
+</div>
 
 #### `Editing Tools`
+<div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;
-</p>
+</div>
+
 <h2 align="start">Statistics 📊</h2>
 <p align="center">
     <a href="https://github.com/AnujMutha"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnujMutha&bg_color=30,642B73,C6426E&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&border_radius=20&border_color=fff&include_all_commits=true&line_height=25&custom_title=Anuj%20Mutha%27s%20Github%20Stats" /></a> 
