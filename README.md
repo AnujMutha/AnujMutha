@@ -20,7 +20,7 @@ _<img src="assets/coder.gif" align="center">
 ## 🚀 Languages and Tools
 <br/>
 
-<p align="start" >
+<p align="center" >
 
 #### **IDE**
   <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>&nbsp;
@@ -30,7 +30,7 @@ _<img src="assets/coder.gif" align="center">
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>&nbsp;
 </p>
 
-<p align="start" >
+<p align="center" >
 
 #### **Languages**
 <img src="https://img.icons8.com/color/48/000000/java.png"/>&nbsp;
@@ -38,13 +38,12 @@ _<img src="assets/coder.gif" align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>&nbsp;
 <img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>&nbsp;
+<img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>&nbsp;
 </p>
 
-<p align="start" >
+<p align="center" >
 
 #### **Other Tools**
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>&nbsp;
