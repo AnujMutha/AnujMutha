@@ -70,14 +70,14 @@
 
 <h2 align="start">Queries? Connect Withe me!</h2>
 <p align="center">
-    <a hred="https://www.linkedin.com/in/anujmutha/"><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a>&nbsp;&nbsp;
-    <a hred="https://www.facebook.com/anuj.mutha.31/"><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.svg"/></a>&nbsp;&nbsp;
-    <a hred="https://www.instagram.com/anuj.mutha/"><img src="https://img.icons8.com/stickers/48/000000/instagram-new--v2.svg"/></a>&nbsp;&nbsp;
-    <a hred="https://twitter.com/anuj_mutha"><img src="https://img.icons8.com/stickers/48/000000/twitter.svg"/></a>&nbsp;&nbsp;
-    <a hred="mailto:mutha.am16@gmail.com"><img src="https://img.icons8.com/stickers/48/000000/gmail-new.svg"/></a>&nbsp;&nbsp;
-    <a hred="https://github.com/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/github.svg"/></a>&nbsp;&nbsp;
-    <a hred="https://t.me/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/telegram-app.svg"/></a>&nbsp;&nbsp;
-    <a hred="https://anujmutha.github.io/Portfolio/index.html"></a><img src="https://img.icons8.com/stickers/48/000000/domain.png"/></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/anujmutha/"><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/anuj.mutha.31/"><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.svg"/></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/anuj.mutha/"><img src="https://img.icons8.com/stickers/48/000000/instagram-new--v2.svg"/></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/anuj_mutha"><img src="https://img.icons8.com/stickers/48/000000/twitter.svg"/></a>&nbsp;&nbsp;
+    <a href="mailto:mutha.am16@gmail.com"><img src="https://img.icons8.com/stickers/48/000000/gmail-new.svg"/></a>&nbsp;&nbsp;
+    <a href="https://github.com/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/github.svg"/></a>&nbsp;&nbsp;
+    <a href="https://t.me/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/telegram-app.svg"/></a>&nbsp;&nbsp;
+    <a href="https://anujmutha.github.io/Portfolio/index.html"></a><img src="https://img.icons8.com/stickers/48/000000/domain.png"/></a>&nbsp;&nbsp;
     
 
 </p>
