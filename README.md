@@ -78,6 +78,8 @@
     <a href="https://github.com/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/github.svg"/></a>&nbsp;&nbsp;
     <a href="https://t.me/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/telegram-app.svg"/></a>&nbsp;&nbsp;
     <a href="https://anujmutha.github.io/Portfolio/"><img src="https://img.icons8.com/stickers/48/000000/domain.png"/></a>&nbsp;&nbsp;
-    
+    <a href="https://anujmutha.github.io/Portfolio/"><img src="https://img.icons8.com/ultraviolet/48/000000/discord-logo.svg"/></a>&nbsp;&nbsp;
+
+
 
 </p>
