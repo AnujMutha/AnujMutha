@@ -67,18 +67,12 @@
 <p align="center">
         <a href="https://github.com/AnujMutha"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMutha&layout=compact&langs_count=10&bg_color=30,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=20&card_width=445" /></a>
 </p>
- 
-<h2 align="center">💬 Connect with me</h2>
-<ul align="center">
-  <br/>
-  <a href="https://discordapp.com/users/223083258433241088"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Discord.png"/></a>
 
-<a href="https://www.youtube.com/crazzyak"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Youtube.png"/></a>
-<a href="https://twitter.com/akshayparakh98"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Twitter.png"/></a>
+<h2 align="start">Queries? Connect Withe me!</h2>
+<p align="center">
+    <code><a hred=""><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a></code>
+    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/instagram-new--v2.svg"/></a>
+    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.png"/></a>
+    <a hred=""></a>
 
-<a href="https://www.instagram.com/akki_parakh/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Instagram.png"/></a>
-<a href="https://steamcommunity.com/id/Cra7zY/"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Steam.png"/></a>
-<a href="mailto:akshayparakh98@gmail.com?subject=From Github"><img height="45px" src="https://raw.githubusercontent.com/AkshayCraZzY/AkshayCraZzY/main/contact/Website.png"/></a>
-</ul>
-<br/>
-<h5 align="center">(click on the images to visit the webpage, images may not display on mobile phones)</h5>
+</p>
