@@ -59,6 +59,13 @@
 <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.svg"/>&nbsp;
 </div>
 
+#### `Favorite Games`
+<div align="center" >
+<img src="https://img.icons8.com/fluency/48/000000/gta-5.png"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/hitman.png"/>&nbsp;
+</div>
+
 <h2 align="start">Statistics 📊</h2>
 <p align="center">
     <a href="https://github.com/AnujMutha"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnujMutha&bg_color=30,642B73,C6426E&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&border_radius=20&border_color=fff&include_all_commits=true&line_height=25&custom_title=Anuj%20Mutha%27s%20Github%20Stats" /></a> 
@@ -68,18 +75,17 @@
         <a href="https://github.com/AnujMutha"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMutha&layout=compact&langs_count=10&bg_color=30,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=20&card_width=445" /></a>
 </p>
 
-<h2 align="start">Queries? Connect Withe me!</h2>
+<h2 align="start">Let's Connect !</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/anujmutha/"><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/anuj.mutha.31/"><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.svg"/></a>&nbsp;&nbsp;
+    <br/>
     <a href="https://www.instagram.com/anuj.mutha/"><img src="https://img.icons8.com/stickers/48/000000/instagram-new--v2.svg"/></a>&nbsp;&nbsp;
     <a href="https://twitter.com/anuj_mutha"><img src="https://img.icons8.com/stickers/48/000000/twitter.svg"/></a>&nbsp;&nbsp;
     <a href="mailto:mutha.am16@gmail.com"><img src="https://img.icons8.com/stickers/48/000000/gmail-new.svg"/></a>&nbsp;&nbsp;
     <a href="https://github.com/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/github.svg"/></a>&nbsp;&nbsp;
+    <br/>
     <a href="https://t.me/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/telegram-app.svg"/></a>&nbsp;&nbsp;
     <a href="https://anujmutha.github.io/Portfolio/"><img src="https://img.icons8.com/stickers/48/000000/domain.png"/></a>&nbsp;&nbsp;
-    <a href="https://anujmutha.github.io/Portfolio/"><img src="https://img.icons8.com/ultraviolet/48/000000/discord-logo.svg"/></a>&nbsp;&nbsp;
-
-
 
 </p>
