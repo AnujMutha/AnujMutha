@@ -73,6 +73,9 @@
     <a hred=""><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a>&nbsp;&nbsp;
     <a hred=""><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.svg"/></a>&nbsp;&nbsp;
     <a hred=""><img src="https://img.icons8.com/stickers/48/000000/instagram-new--v2.svg"/></a>&nbsp;&nbsp;
-    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/twitter.svg"/></a>&nbsp;&nbsp;   
+    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/twitter.svg"/></a>&nbsp;&nbsp;
+    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/gmail-new.png"/></a>&nbsp;&nbsp;
+    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/github.png"/></a>&nbsp;&nbsp;
+
 
 </p>
