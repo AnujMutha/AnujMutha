@@ -28,42 +28,42 @@
 
 #### `Languages`
 <div align="center" >
-<img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.svg"/>&nbsp;
-<img src="https://img.icons8.com/officexs/48/000000/php-logo.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/c-programming.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/officexs/48/000000/php-logo.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/c-programming.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.svg"/>&nbsp;
 </div>
 
 #### `Backend`
 <div align="center" >
-<img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.svg"/>&nbsp;
 </div>
 
 #### `Other Tools`
 <div align="center" >
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;
+&nbsp;<img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
 </div>
 
 #### `Editing Tools`
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
-<img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;
+&nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.svg"/>&nbsp;
 </div>
 
 #### `Favorite Games`
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/gta-5.png"/>&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/hitman.png"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/hitman.png"/>
 </div>
 
 <h2 align="start">Statistics 📊</h2>
