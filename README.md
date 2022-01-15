@@ -19,10 +19,12 @@
 
 #### `IDE`
 <div align="center" >
-  <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>
+   <br/>
   <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>
+   <br/>
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;
 </div>
 
@@ -30,18 +32,22 @@
 <div align="center" >
 <img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;&nbsp;
+<br/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/officexs/48/000000/php-logo.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.svg"/>&nbsp;&nbsp;
+<br/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.svg"/>&nbsp;
 </div>
 
 #### `Backend`
 <div align="center" >
-<img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.svg"/>&nbsp;&nbsp;
+<br/>
+<img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>&nbsp;&nbsp;
+<br/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.svg"/>&nbsp;
 </div>
 
@@ -62,7 +68,7 @@
 #### `Favorite Games`
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/gta-5.png"/>&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/hitman.png"/>
 </div>
 
