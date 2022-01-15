@@ -19,10 +19,10 @@
 
 #### `IDE`
 <div align="center" >
-  <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;
-  <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/atom-editor.svg"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/sublime-text.svg"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.svg"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;
 </div>
 
@@ -47,14 +47,14 @@
 
 #### `Other Tools`
 <div align="center" >
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;
+<img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;&nbsp;
 &nbsp;<img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
 </div>
 
 #### `Editing Tools`
 <div align="center" >
-<img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;&nbsp;
 &nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.svg"/>&nbsp;
 </div>
@@ -62,7 +62,7 @@
 #### `Favorite Games`
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/gta-5.png"/>&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/hitman.png"/>
 </div>
 
