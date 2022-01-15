@@ -70,9 +70,9 @@
 
 <h2 align="start">Queries? Connect Withe me!</h2>
 <p align="center">
-    <code><a hred=""><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a></code>
+    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a>
+    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.svg"/></a>
     <a hred=""><img src="https://img.icons8.com/stickers/48/000000/instagram-new--v2.svg"/></a>
-    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.png"/></a>
-    <a hred=""></a>
+    <a hred=""><img src="https://img.icons8.com/stickers/48/000000/twitter.svg"/></a>
 
 </p>
