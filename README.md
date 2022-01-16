@@ -43,12 +43,12 @@
 
 #### `Backend🗒️`
 <div align="center" >
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.svg"/>
+<img src="https://img.icons8.com/color/58/000000/oracle-logo.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/firebase.svg"/>
 <br/>
-<img src="https://img.icons8.com/color/48/000000/firebase.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>&nbsp;&nbsp;
-<br/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.svg"/>&nbsp;
+<br/>
 </div>
 
 #### `Other Tools ⚓`
