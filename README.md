@@ -94,10 +94,9 @@
     <a href="https://t.me/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/telegram-app.svg"/></a>&nbsp;&nbsp;
     <a href="https://anujmutha.github.io/Portfolio/"><img src="https://img.icons8.com/stickers/48/000000/domain.png"/></a>&nbsp;&nbsp;
 
-</p>
-<br/>
+</p> 
 <h3 align="center">Credits 👏🏻</h3>
-<br/>
+<h2></h2>
 <div align="center">
 
 #### Icons From : [<code>Icons8.com</code>](https://www.icons8.com)
