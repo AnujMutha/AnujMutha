@@ -82,6 +82,7 @@
 </p>
 
 <h2 align="start">Let's Connect 🔗</h2>
+<br/>
 <p align="center">
     <a href="https://www.linkedin.com/in/anujmutha/"><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/anuj.mutha.31/"><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.svg"/></a>&nbsp;&nbsp;
