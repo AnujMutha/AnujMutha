@@ -17,7 +17,7 @@
 
 ## 🚀 Languages and Tools
 
-#### `IDE`
+#### `IDE 📝`
 <div align="center" >
   <img src="https://img.icons8.com/color/48/000000/jetbrains.svg"/>
    <br/>
@@ -28,7 +28,7 @@
   <img src="https://img.icons8.com/color/48/000000/android-studio--v3.svg"/>&nbsp;
 </div>
 
-#### `Languages`
+#### `Languages 😎`
 <div align="center" >
 <img src="https://img.icons8.com/color/48/000000/java.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/python.svg"/>&nbsp;&nbsp;
@@ -41,7 +41,7 @@
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.svg"/>&nbsp;
 </div>
 
-#### `Backend`
+#### `Backend🗒️`
 <div align="center" >
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.svg"/>
 <br/>
@@ -51,21 +51,21 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.svg"/>&nbsp;
 </div>
 
-#### `Other Tools`
+#### `Other Tools ⚓`
 <div align="center" >
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;&nbsp;
 &nbsp;<img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
 </div>
 
-#### `Editing Tools`
+#### `Editing Tools ⚙️`
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;&nbsp;
 &nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.svg"/>&nbsp;
 </div>
 
-#### `Favorite Games`
+#### `Favorite Games 🕹️`
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/gta-5.png"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;&nbsp;
@@ -76,12 +76,12 @@
 <p align="center">
     <a href="https://github.com/AnujMutha"><img alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnujMutha&bg_color=30,642B73,C6426E&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&border_radius=20&border_color=fff&include_all_commits=true&line_height=25&custom_title=Anuj%20Mutha%27s%20Github%20Stats" /></a> 
 </p>
-<h2 align="start">Languages Used <></h2>
+<h2 align="start">Languages Used 👨🏻‍💻</h2>
 <p align="center">
         <a href="https://github.com/AnujMutha"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMutha&layout=compact&langs_count=10&bg_color=30,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=20&card_width=445" /></a>
 </p>
 
-<h2 align="start">Let's Connect !</h2>
+<h2 align="start">Let's Connect 🔗</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/anujmutha/"><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/anuj.mutha.31/"><img src="https://img.icons8.com/stickers/48/000000/facebook-new--v1.svg"/></a>&nbsp;&nbsp;
@@ -96,7 +96,7 @@
 
 </p>
 
-<h3 align="start">Credits !</h3>
+<h3 align="start">Credits 👏🏻</h3>
 
 #### Icons From : [<code>Icons8.com</code>](https://www.icons8.com)
 #### Github stats From : [`Github.com/anuraghazra`](https://github.com/anuraghazra/github-readme-stats)
