@@ -101,14 +101,8 @@
 
 </p> 
 <br/>
-<h2 align="center">Credits 👏🏻</h2>
-<div align="center">
 
-#### Icons From : [<code>Icons8.com</code>](https://www.icons8.com)
-
-#### Github stats From : [`Github.com/anuraghazra`](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<pre align="start"><h2>License</h2>MIT License<br/>Copyright (c) 2022 Anuj Mutha
+<pre align="start"><h2>🔑 LICENSE AND CREDITS</h2>MIT License<br/>Copyright (c) 2022 Anuj Mutha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -127,4 +121,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<h2 align="start">👏🏻 Credits</h2>
+Icons By <a href="https://www.icons8.com">Icons8.com</a>
+Github Stats By <a href="https://github.com/anuraghazra/github-readme-stats">Icons8.com</a>
+
 </pre>
