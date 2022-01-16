@@ -43,19 +43,23 @@
 
 #### `Backend🗒️`
 <div align="center" >
-<img src="https://img.icons8.com/color/58/000000/oracle-logo.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/plasticine/50/000000/oracle-pl-sql--v3.svg"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/firebase.svg"/>
 <br/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.svg"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.svg"/>&nbsp;
+<img src="https://img.icons8.com/material-two-tone/48/000000/mysql-logo.svg"/>
 <br/>
 </div>
 
 #### `Other Tools ⚓`
 <div align="center" >
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;&nbsp;
-&nbsp;<img src="https://img.icons8.com/color/48/000000/git.svg"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;
+<img src="https://img.icons8.com/ios-glyphs/48/000000/github.svg"/>&nbsp;&nbsp;&nbsp;
+&nbsp;<img src="https://img.icons8.com/color/48/000000/git.svg"/>
+<br/>
+<img src="https://img.icons8.com/color/48/000000/airbnb.svg"/>
+<br/>
+<img src="https://img.icons8.com/fluency/48/000000/arduino.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/officel/48/000000/raspberry-pi.svg"/>
 </div>
 
 #### `Editing Tools ⚙️` 
