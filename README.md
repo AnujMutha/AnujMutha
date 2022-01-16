@@ -95,3 +95,8 @@
     <a href="https://anujmutha.github.io/Portfolio/"><img src="https://img.icons8.com/stickers/48/000000/domain.png"/></a>&nbsp;&nbsp;
 
 </p>
+
+<h3 align="start">Credits !</h3>
+
+#### Icons From : [<code>Icons8.com</code>](https://www.icons8.com)
+#### Github stats From : [`Github.com/anuraghazra`](https://github.com/anuraghazra/github-readme-stats)
