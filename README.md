@@ -122,7 +122,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 <h2 align="start">👏🏻 Credits</h2>
-Icons By <a href="https://www.icons8.com">Icons8.com</a>
-Github Stats By <a href="https://github.com/anuraghazra/github-readme-stats">Icons8.com</a>
+Icons By <a href="https://icons8.com/">Icons8.com</a>
+Github Stats By <a href="https://github.com/anuraghazra/github-readme-stats">@Github.com/AnuragHazra</a>
 
 </pre>
