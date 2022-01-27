@@ -66,7 +66,9 @@
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.svg"/>&nbsp;&nbsp;
 &nbsp;<img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.svg"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.svg"/>&nbsp;
+<br/>
+<img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.svg"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/figma--v1.svg"/>&nbsp;
 </div>
 
 #### `Favorite Games 🕹️`
