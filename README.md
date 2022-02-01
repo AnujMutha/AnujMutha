@@ -1,6 +1,8 @@
 <br/>
 
-<code>![GitHub Views](https://komarev.com/ghpvc/?username=AnujMutha&color=brightgreen&style=flat-square)</code>
+<p align="center">
+<img src = "![GitHub Views](https://komarev.com/ghpvc/?username=AnujMutha&color=brightgreen&style=flat-square)"/>
+</a>
 
 <img src="assets/coder.gif" align="center">
 
