@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-<img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=brightgreen&style=flat-square"></img>
+<code><img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=brightgreen&style=flat-square"></img></code>
 </p>
 
 <img src="assets/coder.gif" align="center">
