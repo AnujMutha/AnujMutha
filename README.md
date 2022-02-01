@@ -1,4 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=AnujMutha)
+<center>![GitHub Views](https://komarev.com/ghpvc/?username=AnujMutha)</center>
 
 <img src="assets/coder.gif" align="center">
 
