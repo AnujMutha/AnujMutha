@@ -1,5 +1,4 @@
-<h3 align="center">![GitHub Views](https://komarev.com/ghpvc/?username=AnujMutha)</h3>
-
+![GitHub Views](https://komarev.com/ghpvc/?username=AnujMutha)
 <img src="assets/coder.gif" align="center">
 
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
