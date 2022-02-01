@@ -76,9 +76,9 @@
 #### `Favorite Games 🕹️`
 <div align="center" >
 <img src="https://img.icons8.com/fluency/48/000000/gta-5.png"/>&nbsp;
-<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>&nbsp;&nbsp;
-  <br/>
-<img src="https://img.icons8.com/fluency/48/000000/hitman.svg"/>
+<img src="https://img.icons8.com/fluency/48/000000/pubg.png"/>
+<br/>
+<img src="https://img.icons8.com/fluency/48/000000/hitman.png"/>&nbsp;
 <img src="https://img.icons8.com/color/48/000000/valorant.svg"/>
 </div>
 
