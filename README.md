@@ -103,7 +103,6 @@
     <br/>
     <a href="https://www.instagram.com/anuj.mutha/"><img src="https://img.icons8.com/stickers/48/000000/instagram-new--v2.svg"/></a>&nbsp;&nbsp;
     <a href="https://twitter.com/anuj_mutha"><img src="https://img.icons8.com/stickers/48/000000/twitter.svg"/></a>&nbsp;&nbsp;
-    <a href="https://www.behance.net/anujmutha/"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-behance-an-online-platform-for-creative-work-logo-filled-tal-revivo.png"/></a>&nbsp;&nbsp;
     <a href="mailto:mutha.am16@gmail.com"><img src="https://img.icons8.com/stickers/48/000000/gmail-new.svg"/></a>&nbsp;&nbsp;
     <a href="https://github.com/AnujMutha"><img src="https://img.icons8.com/stickers/48/000000/github.svg"/></a>&nbsp;&nbsp;
     <br/>
