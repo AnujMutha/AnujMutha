@@ -95,7 +95,7 @@
         <a href="https://github.com/AnujMutha"><img alt="Anuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujMutha&layout=compact&langs_count=10&bg_color=30,4776E6,8E54E9&text_color=fff&title_color=fff&border_radius=20&card_width=445" /></a>
 </p>
 
-<h2 align="start">Let's Connect 🔗</h2>
+<h2 align="start">📬 Let's Connect 🔗</h2>
 <br/>
 <p align="center">
     <a href="https://www.linkedin.com/in/anujmutha/"><img src="https://img.icons8.com/stickers/48/000000/linkedin.svg"/></a>&nbsp;&nbsp;
