@@ -3,9 +3,10 @@
 <img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=brightgreen&style=flat-square"/>
 </div>
 <br/>
-
+<div align="center">
 <center><img src="assets/coder.gif"  align="center" width="650px" height="550px"></center>
 <center><img src="profile-3d-contrib/profile-night-rainbow.svg" width="700px" height="500px"></center>
+</div>
 
 <br/>
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
