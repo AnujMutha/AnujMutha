@@ -4,9 +4,8 @@
 </div>
 <br/>
 
+<img src="assets/coder.gif"   width="650px" height="600px">
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="500px" height="300px">
-<img src="assets/coder.gif"   width="650px" height="400px">
-
 
 <br/>
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
