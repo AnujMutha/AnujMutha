@@ -4,8 +4,7 @@
 <img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=brightgreen&style=flat-square"/>
 </div>
 <br/>
-<img src="profile-3d-contrib/profile-night-rainbow.svg" align="center">
-<br/>
+<img src="profile-3d-contrib/profile-night-rainbow.svg" align="center" width="500px" height="300px">
 <img src="assets/coder.gif" align="center">
 <br/>
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
