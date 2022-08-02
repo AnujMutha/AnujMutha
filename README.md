@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=#B88FDC&style=for-the-badge"/>
+<img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=B88FDC&style=for-the-badge"/>
 </div>
 <div align="center">
 <img src="assets/coder.gif" width="700px" height="550px">
