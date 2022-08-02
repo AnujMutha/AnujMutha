@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-<img src="assets/coder.gif"   width="650px" height="600px">
+<img src="assets/coder.gif"   width="550px" height="600px">
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="500px" height="300px">
 
 <br/>
