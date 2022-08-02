@@ -3,7 +3,8 @@
 <div align="center">
 <img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=brightgreen&style=flat-square"/>
 </div>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" align="center">
 <img src="assets/coder.gif" align="center">
 
 <h1 align="center">Hey Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anuj</h1>
