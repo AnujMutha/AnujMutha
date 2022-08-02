@@ -4,8 +4,8 @@
 </div>
 <br/>
 <div align="center">
-<center><img src="assets/coder.gif"  align="center" width="650px" height="550px"></center>
-<center><img src="profile-3d-contrib/profile-night-rainbow.svg" width="700px" height="500px"></center>
+<img src="assets/coder.gif" width="700px" height="550px">
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="700px" height="500px>
 </div>
 
 <br/>
