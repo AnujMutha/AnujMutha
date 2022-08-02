@@ -112,7 +112,7 @@
 
 </p> 
 <br/>
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" align="center">
+<img src="profile-3d-contrib/profile-night-rainbow.svg" align="center">
 
 <pre align="start"><h2>🔑 LICENSE AND CREDITS</h2>MIT License<br/>Copyright (c) 2022 Anuj Mutha
 
