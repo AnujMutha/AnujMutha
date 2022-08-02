@@ -1,8 +1,7 @@
 <br/>
 <div align="center">
-<img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=brightgreen&style=for-the-badge"/>
+<img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=#B88FDC&style=for-the-badge"/>
 </div>
-<br/>
 <div align="center">
 <img src="assets/coder.gif" width="700px" height="550px">
 <img src="profile-3d-contrib/profile-night-rainbow.svg">
