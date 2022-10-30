@@ -1,6 +1,8 @@
 <br/>
 <div align="center">
 <img src = "https://komarev.com/ghpvc/?username=AnujMutha&color=B88FDC&style=for-the-badge"/>
+</div>
+
 <div align="center">
 <img src="assets/coder.gif" width="700px" height="550px">
 <img src="profile-3d-contrib/profile-night-rainbow.svg">
@@ -18,11 +20,6 @@
 
 - ⚡ Fun fact **I'm an `Aspiring Programmer` and occasionally, i like `photography` 🎥📸**
 <br/>
-
-
-</div>
-
-
 
 ## 🚀 Languages and Tools
 
